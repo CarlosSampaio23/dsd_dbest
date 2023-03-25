@@ -23,10 +23,10 @@ Write down what was not done during the week and why (difficulties).
 ### Carlos (Architecture Tester):
 
 #### Done
-Write down what was done during the week.
+During the week I study PostgreSQL with DBeaver, SQLBolt and I begin to study docker.
 
 #### Not done, why?
-Write down what was not done during the week and why (difficulties).
+I didn't finish docker, because I am simultaneously studying UbiComp, but i will finish this nery next week, and I didn´t have major dificulties so far.
 
 
 ### Maxwell (Infrastructure Tester):
