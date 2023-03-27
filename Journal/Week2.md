@@ -29,10 +29,14 @@ Write down what was not done during the week and why (difficulties).
 ### Carlos (Architecture Tester):
 
 #### Done
-Write down what was done during the week.
+-Leaned basic operations in PostgreSQL;
+-learned about SQLBolt;
+-started to learn how to use docker;
+-learned about how to implement Databases, and a little about how can we test it.
 
 #### Not done, why?
-Write down what was not done during the week and why (difficulties).
+-Studying theorical Ubicomp;
+
 
 
 ### Maxwell (Infrastructure Tester):
