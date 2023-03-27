@@ -24,9 +24,13 @@ Write down what was not done during the week and why (difficulties).
 
 #### Done
 Write down what was done during the week.
-
+- Learned some basic operations with PostgreSQL
+- Learned about SQLBolt
+- Started to learn Docker
+- Started to learn some methods to test, interacrt with the Database 
 #### Not done, why?
 Write down what was not done during the week and why (difficulties).
+- didn't finish docker because I am studying UbiComp 
 
 
 ### Maxwell (Infrastructure Tester):
